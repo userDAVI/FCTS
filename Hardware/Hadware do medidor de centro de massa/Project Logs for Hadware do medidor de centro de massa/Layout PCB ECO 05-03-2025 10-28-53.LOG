@@ -1,0 +1,6 @@
+Added Component: Designator=U?(MOD_ESP32-WROOM-32_EXP)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "RF"; VariantName = "[No Variations]"
+Added Class: Name=Esquematico
+Added Room: Name=Esquematico
