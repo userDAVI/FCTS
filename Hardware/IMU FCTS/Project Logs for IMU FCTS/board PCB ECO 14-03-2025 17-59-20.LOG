@@ -1,0 +1,6 @@
+Added Member To Class: ClassName=Main Member=Component C10 0.1uF 4V
+Added Member To Class: ClassName=Main Member=Component Q2 (NPN)SS8050-G
+Added Member To Class: ClassName=Main Member=Component R4 22K
+Added Member To Class: ClassName=Main Member=Component R6 1K
+Added Member To Class: ClassName=Main Member=Component U1 ESP32 WROOM
+Added Member To Class: ClassName=Main Member=Component U2 TP4056

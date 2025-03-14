@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=3V3 Pin=C6-2
+Removed Pin From Net: NetName=3V3 Pin=U3-8
+Added Pin To Net: NetName=VLOGIC Pin=C6-2
+Added Pin To Net: NetName=VLOGIC Pin=U3-8
+Added Net: Name=VLOGIC
+Added Room: Name=Main
